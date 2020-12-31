@@ -7,7 +7,7 @@ const Keyv = require("keyv")
 const lasttime = new Keyv("db.sqlite", {table: 'lasttime'})
 lasttime.on('error', err => console.log('Keyv connection error:' + err))
 
-const liveid = "kC8CPfkuOzw"
+const liveid = "YouTube_Live_id"
 const url = 'https://www.googleapis.com/youtube/v3/videos'+
     '?part=liveStreamingDetails'+
     `&id=${liveid}`+
