@@ -1,0 +1,29 @@
+{
+  "name": "capitola",
+  "version": "1.0.0",
+  "description": "The Discord bot that can push YouTube Live comment and super chat to channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-Rintaro/Capitola.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Rintaro Kobayashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/K-Rintaro/Capitola/issues"
+  },
+  "homepage": "https://github.com/K-Rintaro/Capitola#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "yarn": "^1.22.10"
+  }
+}
