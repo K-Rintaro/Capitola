@@ -1,5 +1,5 @@
 # Capitola
-The Discord bot that can push YouTube Live comment and super chat to channel.
+The most useful Discord bot for streamers.
 
 ## This is WIP Project
 
