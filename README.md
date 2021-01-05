@@ -1,6 +1,8 @@
 # Capitola
 The most useful Discord bot for streamers.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Important!
 YouTube Data API does not support for **long time stream**.\
 The amount of Quota is measly. More details → [YouTube Data API (v3) - Quota Calculator](https://developers.google.com/youtube/v3/determine_quota_cost?hl=ja)
